@@ -1,0 +1,422 @@
+Script started! (v. 3)
+
+Number of items: 18; Items: PLINE1,PLINE2,PLINE3,PLINE4,PLINE5,PLINE6,PLINE7,PLINE8,PLINE9,PLINE10,PLINE11,PLINE12,PLINE13,PLINE14,PLINE15,PLINE16,PLINE17,PLINE18
+ 
+About to process row no. 0 , that is: ['1', '1', '1', '2', '2', '1', '3', '1', '1', '0', '1', '0', '1', '3', '0', '1', '1', '3'] 
+====Evaluations: [1, 1, 1, 2, 2, 1, 3, 1, 1, 0, 1, 0, 1, 3, 0, 1, 1, 3]=======
+Ordered evaluations: [3, 3, 3, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0]
+rank: 0, score 3 
+rank: 0, score 3 
+rank: 0, score 3 
+rank: 3, score 2 
+rank: 3, score 2 
+rank: 5, score 1 
+rank: 5, score 1 
+rank: 5, score 1 
+rank: 5, score 1 
+rank: 5, score 1 
+rank: 5, score 1 
+rank: 5, score 1 
+rank: 5, score 1 
+rank: 5, score 1 
+rank: 5, score 1 
+rank: 15, score 0 
+rank: 15, score 0 
+rank: 15, score 0 
+Partial classification: {3: 1, 2: 4, 1: 6, 0: 16}
+Old classification: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+New position (variabile): 6(1a)
+New position (variabile): 6(2a)
+New position (variabile): 6(3a)
+New position (variabile): 4(4a)
+New position (variabile): 4(5a)
+New position (variabile): 6(6a)
+New position (variabile): 1(7a)
+New position (variabile): 6(8a)
+New position (variabile): 6(9a)
+New position (variabile): 16(10a)
+New position (variabile): 6(11a)
+New position (variabile): 16(12a)
+New position (variabile): 6(13a)
+New position (variabile): 1(14a)
+New position (variabile): 16(15a)
+New position (variabile): 6(16a)
+New position (variabile): 6(17a)
+New position (variabile): 1(18a)
+New classification: [6, 6, 6, 4, 4, 6, 1, 6, 6, 16, 6, 16, 6, 1, 16, 6, 6, 1]
+About to process row no. 1 , that is: ['2', '3', '2', '2', '3', '1', '2', '1', '3', '1', '2', '2', '2', '1', '3', '1', '3', '1'] 
+====Evaluations: [2, 3, 2, 2, 3, 1, 2, 1, 3, 1, 2, 2, 2, 1, 3, 1, 3, 1]=======
+Ordered evaluations: [3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1]
+rank: 0, score 3 
+rank: 0, score 3 
+rank: 0, score 3 
+rank: 0, score 3 
+rank: 0, score 3 
+rank: 5, score 2 
+rank: 5, score 2 
+rank: 5, score 2 
+rank: 5, score 2 
+rank: 5, score 2 
+rank: 5, score 2 
+rank: 5, score 2 
+rank: 12, score 1 
+rank: 12, score 1 
+rank: 12, score 1 
+rank: 12, score 1 
+rank: 12, score 1 
+rank: 12, score 1 
+Partial classification: {3: 1, 2: 6, 1: 13}
+Old classification: [6, 6, 6, 4, 4, 6, 1, 6, 6, 16, 6, 16, 6, 1, 16, 6, 6, 1]
+New position (variabile): 6(1a)
+New position (variabile): 1(2a)
+New position (variabile): 6(3a)
+New position (variabile): 6(4a)
+New position (variabile): 1(5a)
+New position (variabile): 13(6a)
+New position (variabile): 6(7a)
+New position (variabile): 13(8a)
+New position (variabile): 1(9a)
+New position (variabile): 13(10a)
+New position (variabile): 6(11a)
+New position (variabile): 6(12a)
+New position (variabile): 6(13a)
+New position (variabile): 13(14a)
+New position (variabile): 1(15a)
+New position (variabile): 13(16a)
+New position (variabile): 1(17a)
+New position (variabile): 13(18a)
+New classification: [12, 7, 12, 10, 5, 19, 7, 19, 7, 29, 12, 22, 12, 14, 17, 19, 7, 14]
+About to process row no. 2 , that is: ['0', '1', '1', '1', '3', '0', '3', '1', '2', '2', '1', '0', '1', '4', '0', '1', '1', '4'] 
+====Evaluations: [0, 1, 1, 1, 3, 0, 3, 1, 2, 2, 1, 0, 1, 4, 0, 1, 1, 4]=======
+Ordered evaluations: [4, 4, 3, 3, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0]
+rank: 0, score 4 
+rank: 0, score 4 
+rank: 2, score 3 
+rank: 2, score 3 
+rank: 4, score 2 
+rank: 4, score 2 
+rank: 6, score 1 
+rank: 6, score 1 
+rank: 6, score 1 
+rank: 6, score 1 
+rank: 6, score 1 
+rank: 6, score 1 
+rank: 6, score 1 
+rank: 6, score 1 
+rank: 14, score 0 
+rank: 14, score 0 
+rank: 14, score 0 
+rank: 14, score 0 
+Partial classification: {4: 1, 3: 3, 2: 5, 1: 7, 0: 15}
+Old classification: [12, 7, 12, 10, 5, 19, 7, 19, 7, 29, 12, 22, 12, 14, 17, 19, 7, 14]
+New position (variabile): 15(1a)
+New position (variabile): 7(2a)
+New position (variabile): 7(3a)
+New position (variabile): 7(4a)
+New position (variabile): 3(5a)
+New position (variabile): 15(6a)
+New position (variabile): 3(7a)
+New position (variabile): 7(8a)
+New position (variabile): 5(9a)
+New position (variabile): 5(10a)
+New position (variabile): 7(11a)
+New position (variabile): 15(12a)
+New position (variabile): 7(13a)
+New position (variabile): 1(14a)
+New position (variabile): 15(15a)
+New position (variabile): 7(16a)
+New position (variabile): 7(17a)
+New position (variabile): 1(18a)
+New classification: [27, 14, 19, 17, 8, 34, 10, 26, 12, 34, 19, 37, 19, 15, 32, 26, 14, 15]
+About to process row no. 3 , that is: ['0', '1', '0', '2', '3', '0', '3', '1', '1', '2', '1', '0', '1', '4', '0', '1', '1', '4'] 
+====Evaluations: [0, 1, 0, 2, 3, 0, 3, 1, 1, 2, 1, 0, 1, 4, 0, 1, 1, 4]=======
+Ordered evaluations: [4, 4, 3, 3, 2, 2, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+rank: 0, score 4 
+rank: 0, score 4 
+rank: 2, score 3 
+rank: 2, score 3 
+rank: 4, score 2 
+rank: 4, score 2 
+rank: 6, score 1 
+rank: 6, score 1 
+rank: 6, score 1 
+rank: 6, score 1 
+rank: 6, score 1 
+rank: 6, score 1 
+rank: 6, score 1 
+rank: 13, score 0 
+rank: 13, score 0 
+rank: 13, score 0 
+rank: 13, score 0 
+rank: 13, score 0 
+Partial classification: {4: 1, 3: 3, 2: 5, 1: 7, 0: 14}
+Old classification: [27, 14, 19, 17, 8, 34, 10, 26, 12, 34, 19, 37, 19, 15, 32, 26, 14, 15]
+New position (variabile): 14(1a)
+New position (variabile): 7(2a)
+New position (variabile): 14(3a)
+New position (variabile): 5(4a)
+New position (variabile): 3(5a)
+New position (variabile): 14(6a)
+New position (variabile): 3(7a)
+New position (variabile): 7(8a)
+New position (variabile): 7(9a)
+New position (variabile): 5(10a)
+New position (variabile): 7(11a)
+New position (variabile): 14(12a)
+New position (variabile): 7(13a)
+New position (variabile): 1(14a)
+New position (variabile): 14(15a)
+New position (variabile): 7(16a)
+New position (variabile): 7(17a)
+New position (variabile): 1(18a)
+New classification: [41, 21, 33, 22, 11, 48, 13, 33, 19, 39, 26, 51, 26, 16, 46, 33, 21, 16]
+About to process row no. 4 , that is: ['2', '2', '0', '4', '2', '0', '2', '1', '4', '2', '4', '1', '2', '4', '0', '4', '2', '4'] 
+====Evaluations: [2, 2, 0, 4, 2, 0, 2, 1, 4, 2, 4, 1, 2, 4, 0, 4, 2, 4]=======
+Ordered evaluations: [4, 4, 4, 4, 4, 4, 2, 2, 2, 2, 2, 2, 2, 1, 1, 0, 0, 0]
+rank: 0, score 4 
+rank: 0, score 4 
+rank: 0, score 4 
+rank: 0, score 4 
+rank: 0, score 4 
+rank: 0, score 4 
+rank: 6, score 2 
+rank: 6, score 2 
+rank: 6, score 2 
+rank: 6, score 2 
+rank: 6, score 2 
+rank: 6, score 2 
+rank: 6, score 2 
+rank: 13, score 1 
+rank: 13, score 1 
+rank: 15, score 0 
+rank: 15, score 0 
+rank: 15, score 0 
+Partial classification: {4: 1, 2: 7, 1: 14, 0: 16}
+Old classification: [41, 21, 33, 22, 11, 48, 13, 33, 19, 39, 26, 51, 26, 16, 46, 33, 21, 16]
+New position (variabile): 7(1a)
+New position (variabile): 7(2a)
+New position (variabile): 16(3a)
+New position (variabile): 1(4a)
+New position (variabile): 7(5a)
+New position (variabile): 16(6a)
+New position (variabile): 7(7a)
+New position (variabile): 14(8a)
+New position (variabile): 1(9a)
+New position (variabile): 7(10a)
+New position (variabile): 1(11a)
+New position (variabile): 14(12a)
+New position (variabile): 7(13a)
+New position (variabile): 1(14a)
+New position (variabile): 16(15a)
+New position (variabile): 1(16a)
+New position (variabile): 7(17a)
+New position (variabile): 1(18a)
+New classification: [48, 28, 49, 23, 18, 64, 20, 47, 20, 46, 27, 65, 33, 17, 62, 34, 28, 17]
+About to process row no. 5 , that is: ['2', '1', '1', '2', '3', '0', '1', '1', '1', '0', '3', '1', '1', '4', '0', '2', '1', '4'] 
+====Evaluations: [2, 1, 1, 2, 3, 0, 1, 1, 1, 0, 3, 1, 1, 4, 0, 2, 1, 4]=======
+Ordered evaluations: [4, 4, 3, 3, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0]
+rank: 0, score 4 
+rank: 0, score 4 
+rank: 2, score 3 
+rank: 2, score 3 
+rank: 4, score 2 
+rank: 4, score 2 
+rank: 4, score 2 
+rank: 7, score 1 
+rank: 7, score 1 
+rank: 7, score 1 
+rank: 7, score 1 
+rank: 7, score 1 
+rank: 7, score 1 
+rank: 7, score 1 
+rank: 7, score 1 
+rank: 15, score 0 
+rank: 15, score 0 
+rank: 15, score 0 
+Partial classification: {4: 1, 3: 3, 2: 5, 1: 8, 0: 16}
+Old classification: [48, 28, 49, 23, 18, 64, 20, 47, 20, 46, 27, 65, 33, 17, 62, 34, 28, 17]
+New position (variabile): 5(1a)
+New position (variabile): 8(2a)
+New position (variabile): 8(3a)
+New position (variabile): 5(4a)
+New position (variabile): 3(5a)
+New position (variabile): 16(6a)
+New position (variabile): 8(7a)
+New position (variabile): 8(8a)
+New position (variabile): 8(9a)
+New position (variabile): 16(10a)
+New position (variabile): 3(11a)
+New position (variabile): 8(12a)
+New position (variabile): 8(13a)
+New position (variabile): 1(14a)
+New position (variabile): 16(15a)
+New position (variabile): 5(16a)
+New position (variabile): 8(17a)
+New position (variabile): 1(18a)
+New classification: [53, 36, 57, 28, 21, 80, 28, 55, 28, 62, 30, 73, 41, 18, 78, 39, 36, 18]
+[6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
+
+**********
+
+Cases processed: 6 
+Items: ['PLINE1', 'PLINE2', 'PLINE3', 'PLINE4', 'PLINE5', 'PLINE6', 'PLINE7', 'PLINE8', 'PLINE9', 'PLINE10', 'PLINE11', 'PLINE12', 'PLINE13', 'PLINE14', 'PLINE15', 'PLINE16', 'PLINE17', 'PLINE18']
+Final Ranking: [53, 36, 57, 28, 21, 80, 28, 55, 28, 62, 30, 73, 41, 18, 78, 39, 36, 18]
+Mean rankings: [8.83, 6.0, 9.5, 4.67, 3.5, 13.33, 4.67, 9.17, 4.67, 10.33, 5.0, 12.17, 6.83, 3.0, 13.0, 6.5, 6.0, 3.0]
+Items: ['PLINE1', 'PLINE2', 'PLINE3', 'PLINE4', 'PLINE5', 'PLINE6', 'PLINE7', 'PLINE8', 'PLINE9', 'PLINE10', 'PLINE11', 'PLINE12', 'PLINE13', 'PLINE14', 'PLINE15', 'PLINE16', 'PLINE17', 'PLINE18']
+Cumulated Margins: [-51, -15, -87, 57, 111, -141, 75, -69, 39, -51, 39, -105, -33, 183, -123, 3, -15, 183]
+Items: ['PLINE1', 'PLINE2', 'PLINE3', 'PLINE4', 'PLINE5', 'PLINE6', 'PLINE7', 'PLINE8', 'PLINE9', 'PLINE10', 'PLINE11', 'PLINE12', 'PLINE13', 'PLINE14', 'PLINE15', 'PLINE16', 'PLINE17', 'PLINE18']
+Final Number of victories: [25, 33, 16, 58, 73, 3, 57, 18, 48, 29, 44, 12, 26, 75, 13, 35, 33, 75]
+Ordered means of rankings: [3.0, 3.0, 3.5, 4.67, 4.67, 4.67, 5.0, 6.0, 6.0, 6.5, 6.83, 8.83, 9.17, 9.5, 10.33, 12.17, 13.0, 13.33]
+Ordered set of victories: [75, 75, 73, 58, 57, 48, 44, 35, 33, 33, 29, 26, 25, 18, 16, 13, 12, 3]
+
+************************************
+True ranking of items (according to relative rankings): ['PLINE14', 'PLINE14', 'PLINE5', 'PLINE4', 'PLINE4', 'PLINE4', 'PLINE11', 'PLINE2', 'PLINE2', 'PLINE16', 'PLINE13', 'PLINE1', 'PLINE8', 'PLINE3', 'PLINE10', 'PLINE12', 'PLINE15', 'PLINE6']
+True ranking of items (according to number of victories): ['PLINE14', 'PLINE14', 'PLINE5', 'PLINE4', 'PLINE7', 'PLINE9', 'PLINE11', 'PLINE16', 'PLINE2', 'PLINE2', 'PLINE10', 'PLINE13', 'PLINE1', 'PLINE8', 'PLINE3', 'PLINE15', 'PLINE12', 'PLINE6']
+n************************************
+1) Analysis for PLINE1
+	No. of cases: 6
+	Mean position: 8.83
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+2) Analysis for PLINE2
+	No. of cases: 6
+	Mean position: 6.0
+	Distribution in the first 3 ranks: [1, 0, 0]
+	Distribution in the 2 priority levels: [1, 5]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 2.6667, P-value: 0.1025 
+	The level assignment CAN NOT be considered statistically significant.
+3) Analysis for PLINE3
+	No. of cases: 6
+	Mean position: 9.5
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+4) Analysis for PLINE4
+	No. of cases: 6
+	Mean position: 4.67
+	Distribution in the first 3 ranks: [1, 0, 0]
+	Distribution in the 2 priority levels: [1, 5]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 2.6667, P-value: 0.1025 
+	The level assignment CAN NOT be considered statistically significant.
+5) Analysis for PLINE5
+	No. of cases: 6
+	Mean position: 3.5
+	Distribution in the first 3 ranks: [1, 0, 3]
+	Distribution in the 2 priority levels: [4, 2]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 3.5000, P-value: 0.1738 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.6667, P-value: 0.4142 
+	The level assignment CAN NOT be considered statistically significant.
+6) Analysis for PLINE6
+	No. of cases: 6
+	Mean position: 13.33
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+7) Analysis for PLINE7
+	No. of cases: 6
+	Mean position: 4.67
+	Distribution in the first 3 ranks: [1, 0, 2]
+	Distribution in the 2 priority levels: [3, 3]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.0000, P-value: 1.0000 
+	The level assignment CAN NOT be considered statistically significant.
+8) Analysis for PLINE8
+	No. of cases: 6
+	Mean position: 9.17
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+9) Analysis for PLINE9
+	No. of cases: 6
+	Mean position: 4.67
+	Distribution in the first 3 ranks: [2, 0, 0]
+	Distribution in the 2 priority levels: [2, 4]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 4.0000, P-value: 0.1353 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.6667, P-value: 0.4142 
+	The level assignment CAN NOT be considered statistically significant.
+10) Analysis for PLINE10
+	No. of cases: 6
+	Mean position: 10.33
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+11) Analysis for PLINE11
+	No. of cases: 6
+	Mean position: 5.0
+	Distribution in the first 3 ranks: [1, 0, 1]
+	Distribution in the 2 priority levels: [2, 4]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 1.0000, P-value: 0.6065 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.6667, P-value: 0.4142 
+	The level assignment CAN NOT be considered statistically significant.
+12) Analysis for PLINE12
+	No. of cases: 6
+	Mean position: 12.17
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+13) Analysis for PLINE13
+	No. of cases: 6
+	Mean position: 6.83
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+14) Analysis for PLINE14
+	No. of cases: 6
+	Mean position: 3.0
+	Distribution in the first 3 ranks: [5, 0, 0]
+	Distribution in the 2 priority levels: [5, 1]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 10.0000, P-value: 0.0067 
+	The analysis of uniformity bwt priority levels is: Chi Square: 2.6667, P-value: 0.1025 
+	The level assignment CAN NOT be considered statistically significant.
+15) Analysis for PLINE15
+	No. of cases: 6
+	Mean position: 13.0
+	Distribution in the first 3 ranks: [1, 0, 0]
+	Distribution in the 2 priority levels: [1, 5]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 2.6667, P-value: 0.1025 
+	The level assignment CAN NOT be considered statistically significant.
+16) Analysis for PLINE16
+	No. of cases: 6
+	Mean position: 6.5
+	Distribution in the first 3 ranks: [1, 0, 0]
+	Distribution in the 2 priority levels: [1, 5]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 2.6667, P-value: 0.1025 
+	The level assignment CAN NOT be considered statistically significant.
+17) Analysis for PLINE17
+	No. of cases: 6
+	Mean position: 6.0
+	Distribution in the first 3 ranks: [1, 0, 0]
+	Distribution in the 2 priority levels: [1, 5]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 2.6667, P-value: 0.1025 
+	The level assignment CAN NOT be considered statistically significant.
+18) Analysis for PLINE18
+	No. of cases: 6
+	Mean position: 3.0
+	Distribution in the first 3 ranks: [5, 0, 0]
+	Distribution in the 2 priority levels: [5, 1]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 10.0000, P-value: 0.0067 
+	The analysis of uniformity bwt priority levels is: Chi Square: 2.6667, P-value: 0.1025 
+	The level assignment CAN NOT be considered statistically significant.
+Now writing the summary file... 
+Now writing the output file... 
+Now writing the log file... 

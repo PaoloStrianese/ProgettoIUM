@@ -1,0 +1,426 @@
+
+**********
+
+Cases processed: 6 
+Items: ['PTN1', 'PTN2', 'PTN3', 'PTN4', 'PTN5', 'PTN6', 'PTN7', 'PTN8', 'PTN9', 'PTN10', 'PTN11', 'PTN12', 'PTN13', 'PTN14', 'PTN15', 'PTN16', 'PTN17', 'PTN18', 'PTN19', 'PTN20', 'PTN21', 'PTN22', 'PTN23', 'PTN24', 'PTN25', 'PTN26', 'PTN27', 'PTN28', 'PTN29', 'PTN30', 'PTN31', 'PTN32', 'PTN33', 'PTN34', 'PTN35', 'PTN36', 'PTN37', 'PTN38', 'PTN39', 'PTN40', 'PTN41', 'PTN42', 'PTN43', 'PTN44', 'PTN45', 'PTN46', 'PTN47', 'PTN48', 'PTN49', 'PTN50', 'PTN51']
+Final Ranking: [50, 172, 161, 119, 111, 140, 109, 224, 184, 66, 46, 190, 190, 154, 218, 128, 137, 11, 9, 60, 62, 123, 54, 97, 79, 79, 215, 30, 24, 108, 135, 59, 124, 78, 78, 154, 70, 49, 190, 108, 215, 82, 179, 275, 101, 137, 30, 157, 139, 109, 183]
+Mean rankings: [8.33, 28.67, 26.83, 19.83, 18.5, 23.33, 18.17, 37.33, 30.67, 11.0, 7.67, 31.67, 31.67, 25.67, 36.33, 21.33, 22.83, 1.83, 1.5, 10.0, 10.33, 20.5, 9.0, 16.17, 13.17, 13.17, 35.83, 5.0, 4.0, 18.0, 22.5, 9.83, 20.67, 13.0, 13.0, 25.67, 11.67, 8.17, 31.67, 18.0, 35.83, 13.67, 29.83, 45.83, 16.83, 22.83, 5.0, 26.17, 23.17, 18.17, 30.5]
+Items: ['PTN1', 'PTN2', 'PTN3', 'PTN4', 'PTN5', 'PTN6', 'PTN7', 'PTN8', 'PTN9', 'PTN10', 'PTN11', 'PTN12', 'PTN13', 'PTN14', 'PTN15', 'PTN16', 'PTN17', 'PTN18', 'PTN19', 'PTN20', 'PTN21', 'PTN22', 'PTN23', 'PTN24', 'PTN25', 'PTN26', 'PTN27', 'PTN28', 'PTN29', 'PTN30', 'PTN31', 'PTN32', 'PTN33', 'PTN34', 'PTN35', 'PTN36', 'PTN37', 'PTN38', 'PTN39', 'PTN40', 'PTN41', 'PTN42', 'PTN43', 'PTN44', 'PTN45', 'PTN46', 'PTN47', 'PTN48', 'PTN49', 'PTN50', 'PTN51']
+Cumulated Margins: [209, -199, -148, -46, 5, -97, 5, -352, -250, 209, 311, -250, -250, -148, -352, -46, -46, 464, 566, 260, 209, 5, 209, 56, 158, 158, -352, 311, 362, 5, -97, 158, 5, 158, 107, -148, 158, 209, -250, 5, -352, 107, -199, -556, 5, -97, 311, -148, -97, 5, -250]
+Items: ['PTN1', 'PTN2', 'PTN3', 'PTN4', 'PTN5', 'PTN6', 'PTN7', 'PTN8', 'PTN9', 'PTN10', 'PTN11', 'PTN12', 'PTN13', 'PTN14', 'PTN15', 'PTN16', 'PTN17', 'PTN18', 'PTN19', 'PTN20', 'PTN21', 'PTN22', 'PTN23', 'PTN24', 'PTN25', 'PTN26', 'PTN27', 'PTN28', 'PTN29', 'PTN30', 'PTN31', 'PTN32', 'PTN33', 'PTN34', 'PTN35', 'PTN36', 'PTN37', 'PTN38', 'PTN39', 'PTN40', 'PTN41', 'PTN42', 'PTN43', 'PTN44', 'PTN45', 'PTN46', 'PTN47', 'PTN48', 'PTN49', 'PTN50', 'PTN51']
+Final Number of victories: [178, 48, 67, 94, 114, 76, 105, 50, 52, 182, 194, 31, 53, 58, 18, 109, 93, 244, 272, 176, 169, 105, 173, 122, 149, 149, 28, 204, 215, 101, 83, 158, 112, 143, 142, 58, 159, 174, 31, 101, 28, 137, 57, 3, 104, 85, 201, 61, 78, 107, 45]
+Ordered means of rankings: [1.5, 1.83, 4.0, 5.0, 5.0, 7.67, 8.17, 8.33, 9.0, 9.83, 10.0, 10.33, 11.0, 11.67, 13.0, 13.0, 13.17, 13.17, 13.67, 16.17, 16.83, 18.0, 18.0, 18.17, 18.17, 18.5, 19.83, 20.5, 20.67, 21.33, 22.5, 22.83, 22.83, 23.17, 23.33, 25.67, 25.67, 26.17, 26.83, 28.67, 29.83, 30.5, 30.67, 31.67, 31.67, 31.67, 35.83, 35.83, 36.33, 37.33, 45.83]
+Ordered set of victories: [272, 244, 215, 204, 201, 194, 182, 178, 176, 174, 173, 169, 159, 158, 149, 149, 143, 142, 137, 122, 114, 112, 109, 107, 105, 105, 104, 101, 101, 94, 93, 85, 83, 78, 76, 67, 61, 58, 58, 57, 53, 52, 50, 48, 45, 31, 31, 28, 28, 18, 3]
+
+************************************
+True ranking of items (according to relative rankings): ['PTN19', 'PTN18', 'PTN29', 'PTN28', 'PTN28', 'PTN11', 'PTN38', 'PTN1', 'PTN23', 'PTN32', 'PTN20', 'PTN21', 'PTN10', 'PTN37', 'PTN34', 'PTN34', 'PTN25', 'PTN25', 'PTN42', 'PTN24', 'PTN45', 'PTN30', 'PTN30', 'PTN7', 'PTN7', 'PTN5', 'PTN4', 'PTN22', 'PTN33', 'PTN16', 'PTN31', 'PTN17', 'PTN17', 'PTN49', 'PTN6', 'PTN14', 'PTN14', 'PTN48', 'PTN3', 'PTN2', 'PTN43', 'PTN51', 'PTN9', 'PTN12', 'PTN12', 'PTN12', 'PTN27', 'PTN27', 'PTN15', 'PTN8', 'PTN44']
+True ranking of items (according to number of victories): ['PTN19', 'PTN18', 'PTN29', 'PTN28', 'PTN47', 'PTN11', 'PTN10', 'PTN1', 'PTN20', 'PTN38', 'PTN23', 'PTN21', 'PTN37', 'PTN32', 'PTN25', 'PTN25', 'PTN34', 'PTN35', 'PTN42', 'PTN24', 'PTN5', 'PTN33', 'PTN16', 'PTN50', 'PTN7', 'PTN7', 'PTN45', 'PTN30', 'PTN30', 'PTN4', 'PTN17', 'PTN46', 'PTN31', 'PTN49', 'PTN6', 'PTN3', 'PTN48', 'PTN14', 'PTN14', 'PTN43', 'PTN13', 'PTN9', 'PTN8', 'PTN2', 'PTN51', 'PTN12', 'PTN12', 'PTN27', 'PTN27', 'PTN15', 'PTN44']
+n************************************
+1) Analysis for PTN1
+	No. of cases: 6
+	Mean position: 8.33
+	Distribution in the first 3 ranks: [0, 2, 0]
+	Distribution in the 2 priority levels: [2, 4]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 4.0000, P-value: 0.1353 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.6667, P-value: 0.4142 
+	The level assignment CAN NOT be considered statistically significant.
+2) Analysis for PTN2
+	No. of cases: 6
+	Mean position: 28.67
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+3) Analysis for PTN3
+	No. of cases: 6
+	Mean position: 26.83
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+4) Analysis for PTN4
+	No. of cases: 6
+	Mean position: 19.83
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+5) Analysis for PTN5
+	No. of cases: 6
+	Mean position: 18.5
+	Distribution in the first 3 ranks: [0, 2, 0]
+	Distribution in the 2 priority levels: [2, 4]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 4.0000, P-value: 0.1353 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.6667, P-value: 0.4142 
+	The level assignment CAN NOT be considered statistically significant.
+6) Analysis for PTN6
+	No. of cases: 6
+	Mean position: 23.33
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+7) Analysis for PTN7
+	No. of cases: 6
+	Mean position: 18.17
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+8) Analysis for PTN8
+	No. of cases: 6
+	Mean position: 37.33
+	Distribution in the first 3 ranks: [1, 0, 0]
+	Distribution in the 2 priority levels: [1, 5]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 2.6667, P-value: 0.1025 
+	The level assignment CAN NOT be considered statistically significant.
+9) Analysis for PTN9
+	No. of cases: 6
+	Mean position: 30.67
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+10) Analysis for PTN10
+	No. of cases: 6
+	Mean position: 11.0
+	Distribution in the first 3 ranks: [1, 2, 0]
+	Distribution in the 2 priority levels: [3, 3]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.0000, P-value: 1.0000 
+	The level assignment CAN NOT be considered statistically significant.
+11) Analysis for PTN11
+	No. of cases: 6
+	Mean position: 7.67
+	Distribution in the first 3 ranks: [2, 2, 0]
+	Distribution in the 2 priority levels: [4, 2]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.6667, P-value: 0.4142 
+	The level assignment CAN NOT be considered statistically significant.
+12) Analysis for PTN12
+	No. of cases: 6
+	Mean position: 31.67
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+13) Analysis for PTN13
+	No. of cases: 6
+	Mean position: 31.67
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+14) Analysis for PTN14
+	No. of cases: 6
+	Mean position: 25.67
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+15) Analysis for PTN15
+	No. of cases: 6
+	Mean position: 36.33
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+16) Analysis for PTN16
+	No. of cases: 6
+	Mean position: 21.33
+	Distribution in the first 3 ranks: [0, 2, 0]
+	Distribution in the 2 priority levels: [2, 4]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 4.0000, P-value: 0.1353 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.6667, P-value: 0.4142 
+	The level assignment CAN NOT be considered statistically significant.
+17) Analysis for PTN17
+	No. of cases: 6
+	Mean position: 22.83
+	Distribution in the first 3 ranks: [1, 0, 0]
+	Distribution in the 2 priority levels: [1, 5]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 2.6667, P-value: 0.1025 
+	The level assignment CAN NOT be considered statistically significant.
+18) Analysis for PTN18
+	No. of cases: 6
+	Mean position: 1.83
+	Distribution in the first 3 ranks: [3, 2, 0]
+	Distribution in the 2 priority levels: [5, 1]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.8000, P-value: 0.2466 
+	The analysis of uniformity bwt priority levels is: Chi Square: 2.6667, P-value: 0.1025 
+	The level assignment CAN NOT be considered statistically significant.
+19) Analysis for PTN19
+	No. of cases: 6
+	Mean position: 1.5
+	Distribution in the first 3 ranks: [5, 0, 0]
+	Distribution in the 2 priority levels: [5, 1]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 10.0000, P-value: 0.0067 
+	The analysis of uniformity bwt priority levels is: Chi Square: 2.6667, P-value: 0.1025 
+	The level assignment CAN NOT be considered statistically significant.
+20) Analysis for PTN20
+	No. of cases: 6
+	Mean position: 10.0
+	Distribution in the first 3 ranks: [2, 2, 0]
+	Distribution in the 2 priority levels: [4, 2]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.6667, P-value: 0.4142 
+	The level assignment CAN NOT be considered statistically significant.
+21) Analysis for PTN21
+	No. of cases: 6
+	Mean position: 10.33
+	Distribution in the first 3 ranks: [1, 0, 0]
+	Distribution in the 2 priority levels: [1, 5]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 2.6667, P-value: 0.1025 
+	The level assignment CAN NOT be considered statistically significant.
+22) Analysis for PTN22
+	No. of cases: 6
+	Mean position: 20.5
+	Distribution in the first 3 ranks: [1, 0, 0]
+	Distribution in the 2 priority levels: [1, 5]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 2.6667, P-value: 0.1025 
+	The level assignment CAN NOT be considered statistically significant.
+23) Analysis for PTN23
+	No. of cases: 6
+	Mean position: 9.0
+	Distribution in the first 3 ranks: [0, 2, 0]
+	Distribution in the 2 priority levels: [2, 4]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 4.0000, P-value: 0.1353 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.6667, P-value: 0.4142 
+	The level assignment CAN NOT be considered statistically significant.
+24) Analysis for PTN24
+	No. of cases: 6
+	Mean position: 16.17
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+25) Analysis for PTN25
+	No. of cases: 6
+	Mean position: 13.17
+	Distribution in the first 3 ranks: [1, 0, 0]
+	Distribution in the 2 priority levels: [1, 5]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 2.6667, P-value: 0.1025 
+	The level assignment CAN NOT be considered statistically significant.
+26) Analysis for PTN26
+	No. of cases: 6
+	Mean position: 13.17
+	Distribution in the first 3 ranks: [1, 0, 0]
+	Distribution in the 2 priority levels: [1, 5]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 2.6667, P-value: 0.1025 
+	The level assignment CAN NOT be considered statistically significant.
+27) Analysis for PTN27
+	No. of cases: 6
+	Mean position: 35.83
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+28) Analysis for PTN28
+	No. of cases: 6
+	Mean position: 5.0
+	Distribution in the first 3 ranks: [1, 2, 0]
+	Distribution in the 2 priority levels: [3, 3]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.0000, P-value: 1.0000 
+	The level assignment CAN NOT be considered statistically significant.
+29) Analysis for PTN29
+	No. of cases: 6
+	Mean position: 4.0
+	Distribution in the first 3 ranks: [2, 2, 0]
+	Distribution in the 2 priority levels: [4, 2]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.6667, P-value: 0.4142 
+	The level assignment CAN NOT be considered statistically significant.
+30) Analysis for PTN30
+	No. of cases: 6
+	Mean position: 18.0
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+31) Analysis for PTN31
+	No. of cases: 6
+	Mean position: 22.5
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+32) Analysis for PTN32
+	No. of cases: 6
+	Mean position: 9.83
+	Distribution in the first 3 ranks: [0, 2, 0]
+	Distribution in the 2 priority levels: [2, 4]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 4.0000, P-value: 0.1353 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.6667, P-value: 0.4142 
+	The level assignment CAN NOT be considered statistically significant.
+33) Analysis for PTN33
+	No. of cases: 6
+	Mean position: 20.67
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+34) Analysis for PTN34
+	No. of cases: 6
+	Mean position: 13.0
+	Distribution in the first 3 ranks: [2, 0, 0]
+	Distribution in the 2 priority levels: [2, 4]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 4.0000, P-value: 0.1353 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.6667, P-value: 0.4142 
+	The level assignment CAN NOT be considered statistically significant.
+35) Analysis for PTN35
+	No. of cases: 6
+	Mean position: 13.0
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+36) Analysis for PTN36
+	No. of cases: 6
+	Mean position: 25.67
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+37) Analysis for PTN37
+	No. of cases: 6
+	Mean position: 11.67
+	Distribution in the first 3 ranks: [0, 2, 0]
+	Distribution in the 2 priority levels: [2, 4]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 4.0000, P-value: 0.1353 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.6667, P-value: 0.4142 
+	The level assignment CAN NOT be considered statistically significant.
+38) Analysis for PTN38
+	No. of cases: 6
+	Mean position: 8.17
+	Distribution in the first 3 ranks: [0, 2, 0]
+	Distribution in the 2 priority levels: [2, 4]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 4.0000, P-value: 0.1353 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.6667, P-value: 0.4142 
+	The level assignment CAN NOT be considered statistically significant.
+39) Analysis for PTN39
+	No. of cases: 6
+	Mean position: 31.67
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+40) Analysis for PTN40
+	No. of cases: 6
+	Mean position: 18.0
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+41) Analysis for PTN41
+	No. of cases: 6
+	Mean position: 35.83
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+42) Analysis for PTN42
+	No. of cases: 6
+	Mean position: 13.67
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+43) Analysis for PTN43
+	No. of cases: 6
+	Mean position: 29.83
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+44) Analysis for PTN44
+	No. of cases: 6
+	Mean position: 45.83
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+45) Analysis for PTN45
+	No. of cases: 6
+	Mean position: 16.83
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+46) Analysis for PTN46
+	No. of cases: 6
+	Mean position: 22.83
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+47) Analysis for PTN47
+	No. of cases: 6
+	Mean position: 5.0
+	Distribution in the first 3 ranks: [1, 2, 0]
+	Distribution in the 2 priority levels: [3, 3]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: 2.0000, P-value: 0.3679 
+	The analysis of uniformity bwt priority levels is: Chi Square: 0.0000, P-value: 1.0000 
+	The level assignment CAN NOT be considered statistically significant.
+48) Analysis for PTN48
+	No. of cases: 6
+	Mean position: 26.17
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+49) Analysis for PTN49
+	No. of cases: 6
+	Mean position: 23.17
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+50) Analysis for PTN50
+	No. of cases: 6
+	Mean position: 18.17
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
+51) Analysis for PTN51
+	No. of cases: 6
+	Mean position: 30.5
+	Distribution in the first 3 ranks: [0, 0, 0]
+	Distribution in the 2 priority levels: [0, 6]
+	The analysis of uniformity bwt the first 3 ranks is: Chi Square: nan, P-value: nan 
+	The analysis of uniformity bwt priority levels is: Chi Square: 6.0000, P-value: 0.0143 
+	The level assignment CAN be considered statistically significant.
